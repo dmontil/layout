@@ -24,7 +24,7 @@ class MaterialLayoutFormat extends LayoutFormat {
   @override
   final Map<LayoutBreakpoint, double> breakpoints = {
       LayoutBreakpoint.xs: 0,
-    LayoutBreakpoint.sm: 760,
+    LayoutBreakpoint.sm: 759,
     LayoutBreakpoint.md: 1200,
     LayoutBreakpoint.lg: 1440,
     LayoutBreakpoint.xl: 1920,
